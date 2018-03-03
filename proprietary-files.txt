@@ -25,19 +25,11 @@ etc/Handset_cal.acdb
 etc/Hdmi_cal.acdb
 etc/Headset_cal.acdb
 etc/Speaker_cal.acdb
-
 etc/firmware/fw_bcmdhd_apsta.bin:vendor/firmware/fw_bcmdhd_apsta.bin
 etc/firmware/fw_bcmdhd.bin:vendor/firmware/fw_bcmdhd.bin
 etc/firmware/cpp_firmware_v1_1_1.fw:vendor/firmware/cpp_firmware_v1_1_1.fw
 etc/firmware/cpp_firmware_v1_1_6.fw:vendor/firmware/cpp_firmware_v1_1_6.fw
 etc/firmware/cpp_firmware_v1_2_0.fw:vendor/firmware/cpp_firmware_v1_2_0.fw
-etc/firmware/venus.mbn:vendor/firmware/venus.mbn
-etc/firmware/venus.mdt:vendor/firmware/venus.mdt
-etc/firmware/venus.b00:vendor/firmware/venus.b00
-etc/firmware/venus.b01:vendor/firmware/venus.b01
-etc/firmware/venus.b02:vendor/firmware/venus.b02
-etc/firmware/venus.b03:vendor/firmware/venus.b03
-etc/firmware/venus.b04:vendor/firmware/venus.b04
 lib/libvss_dmi_qcci.so:vendor/lib/libvss_dmi_qcci.so
 lib/libvss_common_iface.so:vendor/lib/libvss_common_iface.so
 lib/libvss_common_idl.so:vendor/lib/libvss_common_idl.so
@@ -82,6 +74,7 @@ lib/libmorpho_noise_reduction.so:vendor/lib/libmorpho_noise_reduction.so
 lib/libmorpho_image_stab31.so:vendor/lib/libmorpho_image_stab31.so
 lib/libmmjpeg_interface.so:vendor/lib/libmmjpeg_interface.so
 lib/libqomx_core.so:vendor/lib/libqomx_core.so
+
 ## Vendor
 vendor/lib/drm/libdrmwvmplugin.so
 vendor/lib/egl/eglsubAndroid.so
